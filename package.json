@@ -23,7 +23,7 @@
     "url": "https://github.com/bitpay/bitcore-message.git"
   },
   "dependencies": {
-    "bitcore-lib": "mosaik-crypto-technologies/bitcore-lib#iop"
+    "bitcore-lib": "mosaik-crypto-technologies/bitcore-lib#testnet"
   },
   "devDependencies": {
     "bitcore-build": "bitpay/bitcore-build",
